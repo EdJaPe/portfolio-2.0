@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import logo from "../logo2.0.png";
 
 const Navbar = () => {
